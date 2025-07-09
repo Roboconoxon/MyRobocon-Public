@@ -1,3 +1,4 @@
+[![Total LOC](https://img.shields.io/badge/Total-12510-blue?style=flat&color=purpple)](https://lineup-github.vercel.app)
 
 # MyRobocon Portal - User & Technical Guide
 
