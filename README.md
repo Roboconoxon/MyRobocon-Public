@@ -1,4 +1,4 @@
-[![Total LOC](https://img.shields.io/badge/Total-12510-blue?style=flat&color=purpple)](https://lineup-github.vercel.app)
+[![Total LOC](https://img.shields.io/badge/Total-12511-blue?style=flat&color=purple)](https://lineup-github.vercel.app) [![TypeScript LOC](https://img.shields.io/badge/TypeScript-11804-blue?style=flat&color=purple)](https://lineup-github.vercel.app) [![JSON LOC](https://img.shields.io/badge/JSON-125-blue?style=flat&color=purple)](https://lineup-github.vercel.app) [![JavaScript LOC](https://img.shields.io/badge/JavaScript-83-blue?style=flat&color=purple)](https://lineup-github.vercel.app) [![Markdown LOC](https://img.shields.io/badge/Markdown-371-blue?style=flat&color=purple)](https://lineup-github.vercel.app) [![CSS LOC](https://img.shields.io/badge/CSS-85-blue?style=flat&color=purple)](https://lineup-github.vercel.app) [![Nix LOC](https://img.shields.io/badge/Nix-43-blue?style=flat&color=purple)](https://lineup-github.vercel.app)
 
 # MyRobocon Portal - User & Technical Guide
 
